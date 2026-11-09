@@ -1,0 +1,5 @@
+klaster,nama_klaster,jumlah_produk,persen_dari_reguler,produk_wakil,rata2_penjualan_per_minggu,CV_rata2,autokorelasi_lag1,silhouette_klaster
+0,Volume sangat tinggi - sangat stabil,31,5.9,P73,32.6055,0.2327,0.3041,0.3392
+1,Volume tinggi - stabil,45,8.6,P615,13.1197,0.4348,0.2895,0.2996
+noise,Noise (tidak di area padat),449,85.5,-,12.2874,0.4292,0.108,
+jarang,Produk jarang (banyak minggu nol),286,,-,0.3456,2.5516,,

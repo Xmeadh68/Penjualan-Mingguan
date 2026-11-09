@@ -1,0 +1,21 @@
+metode,parameter,nilai,n_klaster,cakupan_produk,silhouette,memenuhi_syarat
+Average Linkage,k,2,2,1.0,0.1853,False
+Average Linkage,k,3,3,1.0,0.1265,False
+Average Linkage,k,4,4,1.0,0.1043,False
+Average Linkage,k,5,5,1.0,0.0957,False
+Average Linkage,k,6,6,1.0,0.0708,False
+Average Linkage,k,7,7,1.0,0.0641,False
+Average Linkage,k,8,8,1.0,0.0542,False
+PAM,k,2,2,1.0,0.1269,True
+PAM,k,3,3,1.0,0.0618,True
+PAM,k,4,4,1.0,0.0586,True
+PAM,k,5,5,1.0,0.0554,True
+PAM,k,6,6,1.0,0.0292,True
+PAM,k,7,7,1.0,0.0455,True
+PAM,k,8,8,1.0,0.0241,True
+HDBSCAN,min_cluster_size,5,2,0.149,0.3052,True
+HDBSCAN,min_cluster_size,8,2,0.158,0.2955,True
+HDBSCAN,min_cluster_size,10,2,0.145,0.3157,True
+HDBSCAN,min_cluster_size,15,2,0.112,0.3066,True
+HDBSCAN,min_cluster_size,20,2,0.099,0.3043,False
+HDBSCAN,min_cluster_size,30,0,0.0,,False

@@ -1,0 +1,5 @@
+metode,parameter,n_klaster,cakupan_produk,noise_%,silhouette,memenuhi_syarat,terpilih
+Average Linkage,{'k': 2},2,1.0,0.0,0.185,Tidak,False
+PAM,{'k': 2},2,1.0,0.0,0.127,Ya,False
+DBSCAN,"{'eps': 0.94, 'min_samples': 15}",2,0.255,74.5,0.252,Ya,False
+HDBSCAN,{'min_cluster_size': 10},2,0.145,85.5,0.316,Ya,True
